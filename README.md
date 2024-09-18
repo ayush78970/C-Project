@@ -1,1 +1,2 @@
-My journey in software development began with C, a language that profoundly shaped my programming skills. Its efficiency and foundational concepts have provided me with a solid understanding of computer science principles. I continue to value C for its role in developing my analytical abilities and its influence on my approach to problem-solving.
+My journey with programming began with C, the first language I learned in college. C has profoundly shaped my understanding of computer science principles with its efficiency and foundational concepts. I continue to appreciate C for its role in developing my analytical skills and influencing my approach to problem-solving.
+
